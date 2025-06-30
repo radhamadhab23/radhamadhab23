@@ -17,10 +17,6 @@ I am an Electronics and Communication Engineering student at the National Instit
 
 ---
 
-## 📊 My GitHub Stats
-
-![Radhamadhab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhamadhab23&show_icons=true&theme=radical)
-
 ## 🧠 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radhamadhab23&layout=compact&theme=radical)
